@@ -1,0 +1,79 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1642px" height="102px" viewBox="-0.5 -0.5 1642 102" content="&lt;mxfile&gt;&lt;diagram id=&quot;nenff076eDWzbzv1ueTa&quot; name=&quot;ページ1&quot;&gt;3ZhNl5owFIZ/TfaQ8LkUP6abrmbR5ZxUotIG4glx1P76BgkIh8tx2hoc68IT3wST9+GSewMi8/z0Iul+91WkjCPspCdEFgjjOPT1dyWca4HgsBa2Mktryb0Kr9kvZkTHqIcsZWVvoBKCq2zfF9eiKNha9TQqpTj2h20E78+6p1s2EF7XlA/Vb1mqdrWKCYmvHV9Ytt2ZqQlxzMpz2ow2QrmjqTh2JLJEZC6FUHUrP80Zr+A1YOrrViO97cokK9RHLsD1Be+UH4w5sy51btxKcShSVo13EEmGE5g535lU7NSRzIQvTORMybMeYnq9yJg/XuGFsdF2HW6B0ai5X9v2r66OdMOYgg2SocElQRFBcWgas8WlgVESmcYsbBorMybSXT7Sa4wWN/hsMs7nggt56SSBQ2M3rHRRqI6+uXy0XiopfrJOD16EgfOvpDtk3QAgi+9A1oPJao4NviRu8AUNa+e5OJ77uKbA6o9i9ZvIDf5b0N6EoIMhaD8paM7e9lL8qPKGf4vdHTbD1l7HMsGWLDcJFPBcnkvF8mktjz9d9gi44wQO3x8IAYh8exCApOgnVdXypjKlLd8EQHm2LXSbs42ywwOoEdy2cLg7kPFctmpKAa9TCtRbbPJMOyvE09bO6kI5zEPJAsVztAwqhDoz6YauwWb+X1IcpzXG9x5RSqYsBVwgRQEcI6RvbvRcHKEzgD2OIcAxRFFcEXwmajgcUvMtQYPqe/tZsX2+HlB5Q6W3fcftk/AIx8AGY99xG8Xjjq0FNbATTB/UU55ycPQZgnpSx/FnCGrAsa2gJsCp7o/K934yK0TBWigDAgCn0ZoTONq6gXcfCvrn9S3ppa/zrpksfwM=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="480" y="0" width="790" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="0" y="0" width="160" height="20" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="14.5">
+                プロジェクト名
+            </text>
+        </g>
+        <rect x="0" y="20" width="160" height="20" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="34.5">
+                システム名
+            </text>
+        </g>
+        <rect x="0" y="40" width="160" height="20" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="54.5">
+                サブシステム名
+            </text>
+        </g>
+        <rect x="160" y="0" width="320" height="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="319.5" y="14.5">
+                [name_project]
+            </text>
+        </g>
+        <rect x="160" y="20" width="320" height="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="319.5" y="34.5">
+                [name_system]
+            </text>
+        </g>
+        <rect x="160" y="40" width="320" height="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="319.5" y="54.5">
+                [name_subsystem]
+            </text>
+        </g>
+        <rect x="160" y="80" width="1480" height="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+            <text x="161.5" y="94.5">
+                [page_title]
+            </text>
+        </g>
+        <rect x="0" y="80" width="160" height="20" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="94.5">
+                タイトル
+            </text>
+        </g>
+        <rect x="1320" y="0" width="160" height="20" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1399.5" y="14.5">
+                作成日
+            </text>
+        </g>
+        <rect x="1480" y="0" width="160" height="20" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1559.5" y="14.5">
+                作成者
+            </text>
+        </g>
+        <rect x="1270" y="0" width="50" height="20" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1294.5" y="14.5">
+                版
+            </text>
+        </g>
+        <rect x="1320" y="20" width="160" height="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="1480" y="20" width="160" height="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="1270" y="20" width="50" height="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="1320" y="40" width="160" height="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="1480" y="40" width="160" height="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="1270" y="40" width="50" height="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="0" y="60" width="1640" height="20" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+    </g>
+</svg>

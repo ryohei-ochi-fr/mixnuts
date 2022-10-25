@@ -123,24 +123,38 @@ git push -u origin master
 ## メモ
 
 ```powershell
-cd taskdb
+cd mixnuts
 nest new api
 
 cd api
 npm init -y
 npm install @nestjs/swagger swagger-ui-express --save
 npm install typescript ts-node @types/node --save-dev
-npm install prisma --save-dev
-npm install @prisma/client
+#npm install prisma --save-dev
+#npm install @prisma/client
 
 # 日付処理用
 npm install date-fns --save
 
+# xlsx
+npm install node-xlsx --save
+
+npm install excel4node --save
+npm install sharp --save
+npm install buffer-replace --save
+[draw.io で作成した SVG で not supported by viewer と表示される。 - へっぽこプログラマーの備忘録](https://kuttsun.blogspot.com/2018/01/drawio-svg-not-supported-by-viewer.html)
+
+
+
+
+
+
+
 # 起動確認
-npx prisma
+#npx prisma
 
 # sqliteを利用する
-npx prisma init --datasource-provider sqlite
+#npx prisma init --datasource-provider sqlite
 
 # .envにdbファイルを書く
 
