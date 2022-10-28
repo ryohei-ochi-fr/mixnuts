@@ -144,7 +144,8 @@ npm install sharp --save
 npm install buffer-replace --save
 [draw.io で作成した SVG で not supported by viewer と表示される。 - へっぽこプログラマーの備忘録](https://kuttsun.blogspot.com/2018/01/drawio-svg-not-supported-by-viewer.html)
 
-
+[markdown-it - npm](https://www.npmjs.com/package/markdown-it)
+npm install markdown-it --save
 
 
 
